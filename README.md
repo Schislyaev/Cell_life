@@ -2,7 +2,7 @@
 
 <h1>Life and death primitive emulation</h1>
 
-А set of cells is rendomly created with a set of parameters.
+А set of cells is randomly created with a set of parameters.
 1. Gender
 2. Color
 3. Strength
