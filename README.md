@@ -18,6 +18,8 @@ its not - it disappears when meets a cell it can kill.
 
 If a shoot can kill a cell depends on cell Reflection parameter. If cell has it - the shoot will be reflected. Otherwise the cell will die.
 
+In a dashboard upscreen you can see a total amount of cells at the moment, all the unique colors ever been in the world, average strength
+
 <i>
 The options of developing this project:<br>
 1. Reshape the world to 3d.<br>
