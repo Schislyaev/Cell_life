@@ -1,6 +1,5 @@
 from random import random, randint, choice
 import pygame as pg
-import matplotlib.pyplot as plt
 
 
 class App:
