@@ -8,7 +8,7 @@
 3. Strength
 4. Reflection
 
-The cells moves in random directions with a random speed. The world is a torus so for a cell its infinite.
+The cells move in random directions with a random speed. The world is a torus so for a cell its infinite.
 
 If a couple of different genders met - a new cell gets born with a color as an average of its parents. Since then they cant "date" for some time.
 If a couple of the same gender meets - one wich has higher strength kills other.
